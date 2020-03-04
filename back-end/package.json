@@ -1,0 +1,27 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "API для Яндекс.Практикума",
+  "main": "app.js",
+  "scripts": {
+    "start": "",
+    "dev": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakhramoff/DemoPraktikum.git"
+  },
+  "author": "Sergey Vakhramov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vakhramoff/DemoPraktikum/issues"
+  },
+  "homepage": "https://github.com/vakhramoff/DemoPraktikum#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
